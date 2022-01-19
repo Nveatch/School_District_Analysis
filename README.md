@@ -30,6 +30,8 @@ As shown in the above picture, the changes were minimal:
 
 
 
+
+
 **How is the school summary affected?**
 
 ![School Summary](https://github.com/Nveatch/School_District_Analysis/blob/main/Resources/school_comparison.png)
@@ -48,6 +50,8 @@ Changes were much more signicant at the school level:
 
 
 
+
+
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 For this comparison, I'll compare Thomas High School to the average of the other schools (without THS included) for each metric:
@@ -63,6 +67,8 @@ For this comparison, I'll compare Thomas High School to the average of the other
 -% Overall Passing: The district average is 72.01%, so THS is now below average at 65.08%
  
         
+
+
 
 **How does replacing the ninth-grade scores affect the following:**
             
