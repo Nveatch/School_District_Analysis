@@ -32,7 +32,7 @@ As shown in the above picture, the changes were minimal:
 
 
 
-**How is the school summary affected?**
+### **How is the school summary affected?**
 
 ![School Summary](https://github.com/Nveatch/School_District_Analysis/blob/main/Resources/school_comparison.png)
 
@@ -52,7 +52,7 @@ Changes were much more signicant at the school level:
 
 
 
-**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+### **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 For this comparison, I'll compare Thomas High School to the average of the other schools (without THS included) for each metric:
 
@@ -70,7 +70,7 @@ For this comparison, I'll compare Thomas High School to the average of the other
 
 
 
-**How does replacing the ninth-grade scores affect the following:**
+### **How does replacing the ninth-grade scores affect the following:**
             
 -**Math and reading scores by grade**
 
